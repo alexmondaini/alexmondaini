@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Alexandre. I was born in Brazil but have lived pretty much everywhere around the globe.
-- 👀 I’m interested in data science and data engineering. I also love to surf :surfing_man: and play soccer :soccer: 
-- 🌱 I’m currently learning some data warehousing and ETL processing using parallel computing.
+- 👋 Hi, I’m Alexandre. 
+- 👀 I’m interested in data science and data engineering.
 
 <!---
 alexmondaini/alexmondaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
